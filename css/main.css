@@ -1373,11 +1373,23 @@
   .gap-16 {
     gap: calc(var(--spacing) * 16);
   }
+  .gap-18 {
+    gap: calc(var(--spacing) * 18);
+  }
+  .gap-\[70px\] {
+    gap: 70px;
+  }
   .gap-\[100px\] {
     gap: 100px;
   }
   .gap-\[120px\] {
     gap: 120px;
+  }
+  .gap-\[140px\] {
+    gap: 140px;
+  }
+  .gap-\[160px\] {
+    gap: 160px;
   }
   .gap-\[200px\] {
     gap: 200px;
@@ -2537,6 +2549,9 @@
   }
   .forced-color-adjust-none {
     forced-color-adjust: none;
+  }
+  .\[j\:���\8 �6�Ӏ\$F1�\] {
+    j: ����6�Ӏ$F1�;
   }
   .\[keywords\:node-addon-api\] {
     keywords: node-addon-api;
